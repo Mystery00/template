@@ -1,6 +1,6 @@
 @file:Suppress("ConstantConditionIf")
 
-package substratum.theme.template
+package vip.mystery0.substratum
 
 import android.app.Activity
 import android.content.Context
@@ -13,14 +13,14 @@ import android.widget.Toast
 import com.github.javiersantos.piracychecker.*
 import com.github.javiersantos.piracychecker.enums.*
 import com.github.javiersantos.piracychecker.utils.apkSignature
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
-import substratum.theme.template.AdvancedConstants.SHOW_LAUNCH_DIALOG
-import substratum.theme.template.ThemeFunctions.checkApprovedSignature
-import substratum.theme.template.ThemeFunctions.getSelfSignature
-import substratum.theme.template.ThemeFunctions.getSelfVerifiedPirateTools
-import substratum.theme.template.ThemeFunctions.isCallingPackageAllowed
+import vip.mystery0.substratum.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import vip.mystery0.substratum.AdvancedConstants.OTHER_THEME_SYSTEMS
+import vip.mystery0.substratum.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
+import vip.mystery0.substratum.AdvancedConstants.SHOW_LAUNCH_DIALOG
+import vip.mystery0.substratum.ThemeFunctions.checkApprovedSignature
+import vip.mystery0.substratum.ThemeFunctions.getSelfSignature
+import vip.mystery0.substratum.ThemeFunctions.getSelfVerifiedPirateTools
+import vip.mystery0.substratum.ThemeFunctions.isCallingPackageAllowed
 
 /**
  * NOTE TO THEMERS

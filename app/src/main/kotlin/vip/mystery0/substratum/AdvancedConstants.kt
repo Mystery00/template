@@ -1,4 +1,4 @@
-package substratum.theme.template
+package vip.mystery0.substratum
 
 object AdvancedConstants {
 
